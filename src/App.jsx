@@ -1,8 +1,8 @@
 import React from "react";
 
 // images
-import yellowBlob from "./assets/images/blobs-yellow.png";
-import blueBlob from "./assets/images/blobs-blue.png";
+import yellowBlob from "./Assets/images/blobs-yellow.png";
+import blueBlob from "./Assets/images/blobs-blue.png";
 
 // components
 import OpenScreen from "./Components/OpenScreen";
